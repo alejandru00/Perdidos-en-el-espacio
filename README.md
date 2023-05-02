@@ -7,6 +7,7 @@
 
 ************************************************
 
+
 # ENUNCIADO:
 Imagina que en el futuro una nave espacial tripulada parte de la Tierra hacia el planeta Neptuno.
 Durante el viaje, la tripulación permanece en estado de animación suspendida. En el trayecto la nave
