@@ -47,12 +47,17 @@ resolución de 10 mm y un cronómetro con marcas cada 10 milésimas de segundo.
 
 ## APARTADO 1:
 Con una longitud L= 1.00 m cronometran t = 0.46 s.
+
 ¿Cuánto vale g y su error?
+
 ¿En qué planeta están, o pueden estar?
 
 
 ## APARTADO 2:
 Con una longitud L=2.00 m cronometran t = 0.66 s.
+
 ¿Cuánto vale g y su error?
+
 ¿En qué planeta están, o pueden estar?
+
 ¿Con que probabilidad puedes afirmarlo?
