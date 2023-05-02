@@ -7,7 +7,7 @@
 
 ************************************************
 
-#ENUNCIADO:
+# ENUNCIADO:
 Imagina que en el futuro una nave espacial tripulada parte de la Tierra hacia el planeta Neptuno.
 Durante el viaje, la tripulación permanece en estado de animación suspendida. En el trayecto la nave
 sufre una grave avería y el sistema automático de control la dirige al cuerpo celeste más cercano,
@@ -50,7 +50,7 @@ Con una longitud L= 1.00 m cronometran t = 0.46 s.
 ¿En qué planeta están, o pueden estar?
 
 
-##APARTADO 2:
+## APARTADO 2:
 Con una longitud L=2.00 m cronometran t = 0.66 s.
 ¿Cuánto vale g y su error?
 ¿En qué planeta están, o pueden estar?
